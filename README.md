@@ -29,6 +29,4 @@ The system focuses on secure tenant isolation, accurate invoice numbering, corre
 - GST must be calculated correctly for each payer's share.
 - The combined amounts must match the total invoice amount.
 
-## Project Status
 
-Phase 1 – Development in progress.
